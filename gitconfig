@@ -61,4 +61,4 @@
   defaultBranch = master
 [user]
 	email = deyvisonalves@protonmail.com
-	name = Deyvison Ghessi
+	name = cd ~/code/$deyvisong/dotfiles && zsh git_setup.sh
